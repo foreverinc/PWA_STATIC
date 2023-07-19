@@ -1104,22 +1104,6 @@ input:checked + .toggle-bg{
   top: 0.75rem;
 }
 
-.top-1{
-  top: 0.25rem;
-}
-
-.top-1\/2{
-  top: 50%;
-}
-
-.left-1{
-  left: 0.25rem;
-}
-
-.left-1\/2{
-  left: 50%;
-}
-
 .z-10{
   z-index: 10;
 }
@@ -1259,10 +1243,6 @@ input:checked + .toggle-bg{
 
 .max-h-full{
   max-height: 100%;
-}
-
-.min-h-screen{
-  min-height: 100vh;
 }
 
 .w-1\/2{
@@ -1538,16 +1518,6 @@ input:checked + .toggle-bg{
 
 .bg-white\/50{
   background-color: rgb(255 255 255 / 0.5);
-}
-
-.bg-slate-100{
-  --tw-bg-opacity: 1;
-  background-color: rgb(241 245 249 / var(--tw-bg-opacity));
-}
-
-.bg-slate-500{
-  --tw-bg-opacity: 1;
-  background-color: rgb(100 116 139 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-50{
